@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Konjac Noodle (200g pack)",
+    "nutrition_per_100g": {
+      "calories": 12,
+      "protein": 0.2,
+      "fat": 0,
+      "carbs": 3.0
+    },
+    "sensory_tags": {
+      "texture": "chewy",
+      "taste": "neutral"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Tofu Cream",
+    "nutrition_per_100g": {
+      "calories": 76,
+      "protein": 7.8,
+      "fat": 4.5,
+      "carbs": 2.1
+    },
+    "sensory_tags": {
+      "texture": "creamy",
+      "taste": "rich"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Chicken Breast (Steam)",
+    "nutrition_per_100g": {
+      "calories": 109,
+      "protein": 23.0,
+      "fat": 1.2,
+      "carbs": 0
+    },
+    "sensory_tags": {
+      "texture": "firm",
+      "taste": "savory"
+    }
+  }
+]
